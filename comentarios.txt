@@ -1,0 +1,2 @@
+fetch 
+serve para fazer requisição 
